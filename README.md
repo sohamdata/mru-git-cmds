@@ -11,3 +11,6 @@
 - - git remote rm origin
 - To rename the remote repository URL:
 - - git remote rename origin2 origin
+- git branch
+- git checkout main
+- git checkout -b new-branch
