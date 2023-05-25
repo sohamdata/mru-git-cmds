@@ -14,3 +14,4 @@
 - git branch
 - git checkout main
 - git checkout -b new-branch
+- git diff
